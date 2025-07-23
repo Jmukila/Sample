@@ -1,2 +1,1 @@
-Hello from the masterNew line in the master
-Extra line in the master
+Hello from the master
