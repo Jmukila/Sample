@@ -1,1 +1,1 @@
-Hello from master branch and feature branch
+Hello from the manipulate
